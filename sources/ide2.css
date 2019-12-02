@@ -1,0 +1,42 @@
+body{
+margin:0;
+padding:0;
+background-color: yellowgreen;
+background-size:cover;	
+display:flex;
+flex-direction:column;	
+}
+
+.button {
+border: 0;
+line-height: 2;
+padding: 0 20px;
+font-size: 1rem;
+text-align: center;
+color: black;
+background-color: white;
+font-weight:bold;        				
+}
+.text {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.page{
+color:white;
+text-align:center;
+height:100px;
+}
